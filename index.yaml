@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  grafana-alerts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-23T12:05:35.973242111-04:00"
+    description: A Helm chart for Kubernetes
+    digest: d49cb3cd6d716295a6cf48081cbc96bc6e3607607e2a636660d4091d691c7cd9
+    name: grafana-alerts
+    type: application
+    urls:
+    - https://github.com/saitejat1907/alerting_helm/grafana-alerts-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-23T12:05:35.972501269-04:00"
